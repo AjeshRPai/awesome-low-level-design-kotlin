@@ -12,9 +12,7 @@
 
 ## Implementations
 
-#### [Java Implementation](../solutions/java/src/tictactoe/)
-
-#### [Python Implementation](../solutions/python/tictactoe/)
+#### [Implementation](../tictactoe.kt)
 
 ## Classes, Interfaces and Enumerations
 

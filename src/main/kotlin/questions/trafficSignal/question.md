@@ -12,9 +12,8 @@
 
 ## Implementations
 
-#### [Java Implementation](../solutions/java/src/trafficsignalsystem/)
+#### [Implementation](../trafficSignal.kt)
 
-#### [Python Implementation](../solutions/python/trafficsignalsystem/)
 
 ## Classes, Interfaces and Enumerations
 

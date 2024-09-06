@@ -1,7 +1,5 @@
 # Designing a Parking Lot System
 
-# Question reference and reference [link](https://github.com/ashishps1/awesome-low-level-design?tab=readme-ov-file)
-
 ## Requirements
 
 1. The parking lot should have multiple levels, each level with a certain number of parking spots.
@@ -13,7 +11,7 @@
 
 ## Implementations
 
-#### [Kotlin implementation](../parkinglot/)
+#### [Implementation](../parkinglot.kt)
 
 ## Classes, Interfaces and Enumerations
 

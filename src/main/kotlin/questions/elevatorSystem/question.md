@@ -14,7 +14,7 @@
 
 ## Implementations
 
-#### [Kotlin implementation](../elevatorSystem/)
+#### [Implementation](../elevatorSystem.kt)
 
 ## Classes, Interfaces and Enumerations
 

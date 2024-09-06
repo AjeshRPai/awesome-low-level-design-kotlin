@@ -11,7 +11,7 @@
 
 ## Implementations
 
-#### [Kotlin implementation](../loggingFramework/)
+#### [Implementation](../loggingFramework.kt)
 
 ## Classes, Interfaces and Enumerations
 
