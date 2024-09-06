@@ -11,7 +11,7 @@
 
 ## Implementations
 
-#### [Implementation](../loggingFramework.kt)
+#### [Implementation](loggingFramework.kt)
 
 ## Classes, Interfaces and Enumerations
 

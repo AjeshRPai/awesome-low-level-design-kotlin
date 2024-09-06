@@ -11,7 +11,7 @@
 
 ## Implementations
 
-#### [Implementation](../parkinglot.kt)
+#### [Implementation](parkinglot.kt)
 
 ## Classes, Interfaces and Enumerations
 

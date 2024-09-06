@@ -12,7 +12,7 @@
 
 ## Implementations
 
-#### [Implementation](../trafficSignal.kt)
+#### [Implementation](trafficSignal.kt)
 
 
 ## Classes, Interfaces and Enumerations

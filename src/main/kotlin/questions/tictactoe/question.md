@@ -12,7 +12,7 @@
 
 ## Implementations
 
-#### [Implementation](../tictactoe.kt)
+#### [Implementation](tictactoe.kt)
 
 ## Classes, Interfaces and Enumerations
 

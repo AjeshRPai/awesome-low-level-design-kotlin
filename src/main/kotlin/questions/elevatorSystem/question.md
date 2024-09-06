@@ -14,7 +14,7 @@
 
 ## Implementations
 
-#### [Implementation](../elevatorSystem.kt)
+#### [Implementation](elevatorSystem.kt)
 
 ## Classes, Interfaces and Enumerations
 
