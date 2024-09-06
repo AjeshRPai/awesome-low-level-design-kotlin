@@ -1,0 +1,7 @@
+questions.loggingFramework.Log@13a57a3b
+questions.loggingFramework.Log@3c09711b
+1725362505192 [INFO] This is an information message
+1725362505192 [WARNING] This is a warning message
+1725362505192 [ERROR] This is an error message
+1725362505196 [DEBUG] This is a debug message
+1725362505196 [INFO] This is another information message
