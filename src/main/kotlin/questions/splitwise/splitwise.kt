@@ -187,11 +187,16 @@ class SplitwiseService {
             }
         }
     }
+
+    companion object {
+        val INSTANCE: SplitwiseService by lazy(LazyThreadSafetyMode.SYNCHRONIZED) { SplitwiseService() }
+    }
+
 }
 
 // Main function to demonstrate the functionality
 suspend fun main() {
-    val splitwiseService = SplitwiseService()
+    val splitwiseService = SplitwiseService.INSTANCE
 
     // Create users
     val user1 = User("1", "Alice", "alice@example.com")
