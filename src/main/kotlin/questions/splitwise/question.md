@@ -13,7 +13,7 @@
 
 ## Implementations
 
-#### [Implementation](../splitwise.kt)
+#### [Implementation](splitwise.kt)
 
 ## Classes, Interfaces and Enumerations
 
