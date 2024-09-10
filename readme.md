@@ -12,4 +12,4 @@ from [awesome low level design repo](https://github.com/ashishps1/awesome-low-le
 
 ### Hard Difficulty
 #### [Design Splitwise](src/main/kotlin/questions/splitwise/question.md)
-
+#### [Design Ridesharing service like Uber](src/main/kotlin/questions/uber/question.md)
