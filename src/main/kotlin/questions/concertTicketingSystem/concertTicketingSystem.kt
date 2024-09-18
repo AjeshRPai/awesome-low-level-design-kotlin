@@ -97,10 +97,10 @@ enum class BookingStatus {
 
 class SeatNotAvailableException(s: String) : RuntimeException()
 
-class ConcertBookingSystem(
+class ConcertBookingSystem private constructor(
     private val concerts: MutableMap<String, Concert> = ConcurrentHashMap(),
     private val bookings: MutableMap<String, Booking> = ConcurrentHashMap()
-) {
+){
     fun addConcert(concert: Concert){
         concerts[concert.id] = concert
     }
